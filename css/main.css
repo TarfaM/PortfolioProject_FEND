@@ -1,40 +1,33 @@
 
+
 @media screen and (min-width :412px) {
-h1{
-font-size: 20px;
-}
-   .cover{
-     width: auto;
-     height: auto;
-  }
+	h1 {
+		font-size: 20px;
+	}
 
-.small{
-    width: 45%;
-    margin-left:  0px;
-    margin-right: 0px;
-background-color: rgb(113, 144, 14);
-  }
-}
+	.cover {
+		width: auto;
+		height: auto;
+	}
 
-
-h1{
-font-size: 10px;
+	.small {
+		width: 45%;
+		margin-left: 0px;
+		margin-right: 0px;
+		background-color: rgb(113, 144, 14);
+	}
 }
 
-
-/*.continerpage{
-width: 600px;
-margin: auto;
-margin: auto;
-}*/
-.items{
-margin-top: 23px;
-margin-bottom: 23px;
-
+h1 {
+	font-size: 10px;
 }
-.cover{
 
-  width: 100%;
-  height: 100%;
+.items {
+	margin-top: 23px;
+	margin-bottom: 23px;
+}
 
+.cover {
+	width: 100%;
+	height: 100%;
 }
